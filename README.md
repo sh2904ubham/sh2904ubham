@@ -1,7 +1,10 @@
 # Hi, I'm Shubham Srivastava 👋
 
-<div style="background-image: url('Coding_Image.jpeg'); background-size: cover; background-position: center; height: 100vh; display: flex; justify-content: center; align-items: center; text-align: center; color: white; font-size: 24px; font-style: italic;">
-  <p>"Code is like humor. When you have to explain it, it’s bad."</p>
+<div style="position: relative; display: inline-block;">
+  <img src="Coding_Image.jpeg" alt="Background Image" style="width: 100%; height: 20;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; font-style: italic; text-align: center; background-color: rgba(0, 0, 0, 0.5); padding: 10px;">
+    "Code is like humor. When you have to explain it, it’s bad."
+  </div>
 </div>
 
 
