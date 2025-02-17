@@ -1,7 +1,8 @@
 # Hi, I'm Shubham Srivastava 👋
 
-![My Image](https://www.vecteezy.com/vector-art/7213032-graphics-design-illustration-digital-circuit-with-binary-coded-decimal-diagram-technology-for-background-wallpaper-vector-illustration)
-*_"Code is like humor. When you have to explain it, it’s bad."_*
+<div style="background-image: url('https://your-image-url.com'); background-size: cover; background-position: center; text-align: center; color: white; padding: 100px;">
+    <h2 style="font-size: 30px;">"Code is like humor. When you have to explain it, it’s bad."</h2>
+</div>
 
 Welcome to my GitHub profile! Full-stack CS student passionate about building scalable frontend & backend systems with MERN. Eager to learn DevOps and dedicated to mastering Data Structures and Algorithms (DSA) for efficient problem-solving and system optimization.
 
@@ -30,7 +31,7 @@ Welcome to my GitHub profile! Full-stack CS student passionate about building sc
 ### [Jobify](https://github.com/sh2904ubham/Jobify_JAN)
 Jobify is a job-tracking web application that helps users manage job applications efficiently. Built using the MERN stack, it allows users to add, update, and track job applications with features like authentication, job filtering, and application status updates. The project includes secure user authentication, dynamic UI components, and a responsive design, ensuring a smooth user experience across devices.
 
-### [Tomato]((https://food-deli-frontend-pc8p.onrender.com/))
+### [Tomato](https://food-deli-frontend-pc8p.onrender.com/)
 Tomato is a food delivery web application built using the MERN stack, designed to provide a seamless online food ordering experience. It allows users to browse restaurants, view menus, place orders, and track deliveries in real time. The project features secure authentication, dynamic search and filtering, an intuitive UI, and a responsive design for smooth navigation across devices.
 
 ### [Prescripto](https://medinote-cajeta-fec684.netlify.app/)
