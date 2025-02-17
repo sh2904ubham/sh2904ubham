@@ -1,6 +1,11 @@
 # Hi, I'm Shubham Srivastava 👋
 
-![Background Image](Coding_Image.jpeg)
+<div style="position: relative; display: inline-block;">
+  <img src="Coding_Image.jpeg" alt="Background Image" style="width: 100%; height: auto;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; font-weight: bold;">
+    Hi, I'm Shubham Srivastava 👋
+  </div>
+</div>
 
 
 Welcome to my GitHub profile! Full-stack CS student passionate about building scalable frontend & backend systems with MERN. Eager to learn DevOps and dedicated to mastering Data Structures and Algorithms (DSA) for efficient problem-solving and system optimization.
