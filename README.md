@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Full-stack CS student passionate about building sc
 - 💬 Ask me about **Web Development** and **Web Technologies**.
 - 📫 How to reach me: **[shubhamshibu42@gmail.com]**.
 - ⚡ Fun fact: I love to go to the **gym**.
-- 📊 Profile views: ![Profile views](https://komarev.com/ghpvc/?username=sh2904ubham)
+
   
 ## 💻 Skills
 
