@@ -1,9 +1,9 @@
 # Hi, I'm Shubham Srivastava 👋
 
 <div style="position: relative; display: inline-block;">
-  <img src="Coding_Image.jpeg" alt="Background Image" style="width: 50%; height: 20;">
+  <img src="Coding_Image.jpeg" alt="Background Image" style="width: 100%; height: auto;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; font-style: italic; text-align: center; background-color: rgba(0, 0, 0, 0.5); padding: 10px;">
-    "Code is like humor. When you have to explain it, it’s bad."
+   
   </div>
 </div>
 
