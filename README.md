@@ -3,7 +3,7 @@
 <div style="position: relative; display: inline-block;">
   <img src="Coding_Image.jpeg" alt="Background Image" style="width: 100%; height: auto;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; font-weight: bold;">
-    Hi, I'm Shubham Srivastava 👋
+    
   </div>
 </div>
 
