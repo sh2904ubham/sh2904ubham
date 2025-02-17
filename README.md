@@ -1,5 +1,8 @@
 # Hi, I'm Shubham Srivastava 👋
 
+![My Image](https://www.vecteezy.com/vector-art/7213032-graphics-design-illustration-digital-circuit-with-binary-coded-decimal-diagram-technology-for-background-wallpaper-vector-illustration)
+*_"Code is like humor. When you have to explain it, it’s bad."_*
+
 Welcome to my GitHub profile! Full-stack CS student passionate about building scalable frontend & backend systems with MERN. Eager to learn DevOps and dedicated to mastering Data Structures and Algorithms (DSA) for efficient problem-solving and system optimization.
 
 ## 🚀 About Me
