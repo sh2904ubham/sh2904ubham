@@ -1,8 +1,7 @@
 # Hi, I'm Shubham Srivastava 👋
 
-<div style="background-image: url('https://github.com/sh2904ubham/sh2904ubham/blob/main/Coding_Image.jpeg'); background-size: cover; background-position: center; text-align: center; color: white; padding: 100px;">
-    <h2 style="font-size: 30px;">"Code is like humor. When you have to explain it, it’s bad."</h2>
-</div>
+![Background Image](Coding_Image.jpeg)
+
 
 Welcome to my GitHub profile! Full-stack CS student passionate about building scalable frontend & backend systems with MERN. Eager to learn DevOps and dedicated to mastering Data Structures and Algorithms (DSA) for efficient problem-solving and system optimization.
 
