@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh2904ubham&label=Profile%20views&color=0e75b6&style=flat" alt="amanacer" /> </p>
 <div style="position: relative; display: inline-block;">
-  <img src="Coding_Image.jpeg" alt="Background Image" style="width: 100%; height: auto;">
+  <img align="left" src="Coding_Image.jpeg" alt="Background Image" style="width: 100%; height: auto;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; font-style: italic; text-align: center; background-color: rgba(0, 0, 0, 0.5); padding: 10px;">
    
   </div>
