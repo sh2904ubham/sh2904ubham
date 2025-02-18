@@ -1,5 +1,5 @@
 # Hi, I'm Shubham Srivastava 👋
-<a align="center" href="https://github.com/Amanacer"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Problem+solver.+Tech+enthusiast." alt="Typing SVG" /></a>
+<a align="center" href="https://github.com/sh2904ubham"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Problem+solver.+Tech+enthusiast." alt="Typing SVG" /></a>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh2904ubham&label=Profile%20views&color=0e75b6&style=flat" alt="amanacer" /> </p>
 <div style="position: relative; display: inline-block;">
