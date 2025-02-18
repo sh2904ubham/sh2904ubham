@@ -53,6 +53,8 @@ Prescripto is a doctor-client web application built using React for a seamless a
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sh2904ubham&show_icons=true)
 
 
+![GitHub Streak](https://streak-stats.demolab.com?user=sh2904ubham&theme=default)
+
 
 ## 📈 GitHub Stats
 
