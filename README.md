@@ -1,6 +1,7 @@
 # Hi, I'm Shubham Srivastava 👋
  <a align="center" href="https://github.com/Amanacer"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Problem+solver.+Tech+enthusiast." alt="Typing SVG" /></a>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanacer&label=Profile%20views&color=0e75b6&style=flat" alt="amanacer" /> </p>
 <div style="position: relative; display: inline-block;">
   <img src="Coding_Image.jpeg" alt="Background Image" style="width: 100%; height: auto;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; font-style: italic; text-align: center; background-color: rgba(0, 0, 0, 0.5); padding: 10px;">
