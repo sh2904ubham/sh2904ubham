@@ -16,7 +16,7 @@ Welcome to my GitHub profile! Full-stack CS student passionate about building sc
 - 👯 I’m looking to collaborate in **web dev projects**.
 - 💬 Ask me about **Web Development** and **Web Technologies**.
 - 📫 How to reach me: **[shubhamshibu42@gmail.com]**.
-- ⚡ Fun fact: I love to go to the **gym**.
+- ⚡ Fun fact: I enjoy finding balance and strength through yoga—whether it's mastering a new pose, improving flexibility, or simply embracing mindfulness!
 
   
 ## 💻 Skills
