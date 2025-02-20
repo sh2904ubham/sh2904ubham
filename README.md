@@ -27,7 +27,7 @@ Welcome to my GitHub profile! Full-stack CS student passionate about building sc
 - **Version Control**: Git, GitHub
 - **Tools**: VS Code, Postman, Docker (soon)
 - **Database**: MySQL, MongoDB
-- **Project Management**: Agile, Jira, Trello
+- **Project Management**: Agile
 
 ## 🛠️ Projects
 
