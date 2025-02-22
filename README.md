@@ -22,7 +22,7 @@ Welcome to my GitHub profile! Full-stack CS student passionate about building sc
 ## 💻 Skills
 
 - **Languages**: JavaScript, Java
-- **Frontend**: React, HTML, CSS, JavaScript, Bootstrap
+- **Frontend**: React, HTML, CSS, JavaScript, Bootstrap, React
 - **Backend**: Node.js, Express.js
 - **Version Control**: Git, GitHub
 - **Tools**: VS Code, Postman, Docker (soon)
