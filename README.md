@@ -60,10 +60,8 @@ Prescripto is a doctor-client web application built using React for a seamless a
 
 
 ![JAVA](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
@@ -76,14 +74,11 @@ Prescripto is a doctor-client web application built using React for a seamless a
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)
 ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)
 ![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
-
-
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
@@ -104,7 +99,7 @@ Prescripto is a doctor-client web application built using React for a seamless a
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
 </p>
 
-## 📫 How to Reach Me
+
 <h2> Connect with me 
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
