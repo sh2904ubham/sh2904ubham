@@ -58,13 +58,12 @@ Prescripto is a doctor-client web application built using React for a seamless a
 
 <h2 align="left">Languages and Tools</h2>
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+
 ![JAVA](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
-![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=plastic&logo=angular&logoColor=red&labelColor=grey&color=blue)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
@@ -77,16 +76,14 @@ Prescripto is a doctor-client web application built using React for a seamless a
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![Ruby](https://img.shields.io/badge/-ruby-05122A?style=flat&logo=ruby)
-![Rails](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=rubyonrails)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)
 ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)
 ![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
-![InnoDB](https://img.shields.io/badge/-InnoDB-05122A?style=flat&logo=InnoDB)
+
+
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
@@ -108,6 +105,8 @@ Prescripto is a doctor-client web application built using React for a seamless a
 </p>
 
 ## 📫 How to Reach Me
+<h2> Connect with me 
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 - 📧 Email: shubhamshibu42@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/2904Shubham/
