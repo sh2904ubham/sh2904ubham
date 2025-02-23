@@ -41,8 +41,39 @@ Tomato is a food delivery web application built using the MERN stack, designed t
 Prescripto is a doctor-client web application built using React for a seamless and intuitive frontend experience. It allows patients to book appointments, consult doctors online, and manage prescriptions efficiently. The project features a responsive UI, interactive forms, and smooth navigation, ensuring an optimal user experience across devices.
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h2 align="left">Languages and Tools</h2>
+
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+![JAVA](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=plastic&logo=angular&logoColor=red&labelColor=grey&color=blue)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
+![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery&logoColor=563D7C)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Ruby](https://img.shields.io/badge/-ruby-05122A?style=flat&logo=ruby)
+![Rails](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=rubyonrails)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)
+![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)
+![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)
+![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+![InnoDB](https://img.shields.io/badge/-InnoDB-05122A?style=flat&logo=InnoDB)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
 
 ## 📈 GitHub Stats
