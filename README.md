@@ -21,7 +21,9 @@ Welcome to my GitHub profile! Full-stack CS student passionate about building sc
 - 📫 How to reach me: **[shubhamshibu42@gmail.com]**.
 - ⚡ Fun fact: I enjoy finding balance and strength through yoga—whether it's mastering a new pose, improving flexibility, or simply embracing mindfulness!
 
-  
+  <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
+</p>
 ## 💻 Skills
 
 - **Languages**: JavaScript, Java
@@ -31,6 +33,10 @@ Welcome to my GitHub profile! Full-stack CS student passionate about building sc
 - **Tools**: VS Code, Postman, Docker (soon)
 - **Database**: MySQL, MongoDB
 - **Project Management**: Agile
+
+  <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
+</p>
 
 ## 🛠️ Projects
 
@@ -43,6 +49,9 @@ Tomato is a food delivery web application built using the MERN stack, designed t
 ### [Prescripto](https://medinote-cajeta-fec684.netlify.app/)
 Prescripto is a doctor-client web application built using React for a seamless and intuitive frontend experience. It allows patients to book appointments, consult doctors online, and manage prescriptions efficiently. The project features a responsive UI, interactive forms, and smooth navigation, ensuring an optimal user experience across devices.
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
+</p>
 
 <h2 align="left">Languages and Tools</h2>
 
@@ -78,7 +87,9 @@ Prescripto is a doctor-client web application built using React for a seamless a
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
-
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
+</p>
 ## 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sh2904ubham&show_icons=true)
