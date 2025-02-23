@@ -1,4 +1,4 @@
-<h2> Hi, I'm Shubham Srivastava 👋</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=I'm+Shubham+Srivastava;I'm+a+full+stack+developer;I+live+to+code;I+love+doing+workout;)](https://git.io/typing-svg)
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
 </p>
