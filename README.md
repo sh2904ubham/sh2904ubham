@@ -1,4 +1,7 @@
 # Hi, I'm Shubham Srivastava 👋
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh2904ubham&label=Profile%20views&color=0e75b6&style=flat" alt="shubham" /> </p>
 <div style="position: relative; display: inline-block;">
@@ -100,7 +103,9 @@ Prescripto is a doctor-client web application built using React for a seamless a
 ![GitHub Streak](https://streak-stats.demolab.com?user=sh2904ubham&theme=default)
 
 
-
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
+</p>
 
 ## 📫 How to Reach Me
 
