@@ -16,7 +16,7 @@ Welcome to my GitHub profile! Full-stack CS student passionate about building sc
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
 </p>
 
-## 🚀 About Me
+## 🚀  About Me
 
 - 🔭 I am honing my **dev** and **DSA** skills.
 - 🌱 I am currently learning **MERN/DevOps**.
