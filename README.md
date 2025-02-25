@@ -30,7 +30,7 @@ Welcome to my GitHub profile! Full-stack CS student passionate about building sc
 </p>
 ## 💻 Skills
 
-- **Languages**: JavaScript, Java
+- **Languages**: JavaScript, Java, Python
 - **Frontend**: React, HTML, CSS, JavaScript, Bootstrap, React
 - **Backend**: Node.js, Express.js
 - **Version Control**: Git, GitHub
@@ -80,7 +80,6 @@ Prescripto is a doctor-client web application built using React for a seamless a
 ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)
 ![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
 <p  align="center">
