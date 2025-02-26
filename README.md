@@ -102,7 +102,7 @@ Prescripto is a doctor-client web application built using React for a seamless a
 </p>
 
 
-![Snake animation](https://github.com/sh2904ubham/sh2904ubham/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 <h2> Connect with me 
