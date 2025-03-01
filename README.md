@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Full-stack CS student passionate about building sc
 
 ## 🚀  About Me
 
-- 🔭 I am honing my **dev** and **DSA** skills.
+- 🔭 I am honing my **Dev** and **DSA** skills.
 - 🌱 I am currently learning **MERN/DevOps**.
 - 👯 I’m looking to collaborate in **web dev projects**.
 - 💬 Ask me about Web Development, Web Technologies, and MERN Stack.
