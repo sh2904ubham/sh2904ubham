@@ -21,7 +21,7 @@ Welcome to my GitHub profile! Full-stack CS student passionate about building sc
 - 🔭 I am honing my **Dev** and **DSA** skills.
 - 🌱 I am currently learning **MERN/DevOps**.
 - 👯 I’m looking to collaborate in **web dev projects**.
-- 💬 Ask me about Web Development, Web Technologies, and MERN Stack.
+- 💬 Ask me about Web Development and MERN Stack.
 - 📫 How to reach me: **[shubhamshibu42@gmail.com]**.
 - ⚡ Fun fact: I enjoy finding balance and strength through yoga—whether it's mastering a new pose, improving flexibility, or simply embracing mindfulness!
 
