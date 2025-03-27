@@ -79,7 +79,7 @@ Prescripto is a doctor-client web application built using React for a seamless a
 ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)
 ![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
