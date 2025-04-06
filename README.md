@@ -11,7 +11,7 @@
    
   </div>
 </div>
-Welcome to my GitHub profile! Full-stack Computer Sciencestudent passionate about building scalable frontend and backend systems with MERN. Eager to learn DevOps and dedicated to mastering Data Structures and Algorithms  for efficient problem-solving and system optimization.
+Welcome to my GitHub profile! Full-stack Computer Science student passionate about building scalable frontend and backend systems with MERN. Eager to learn DevOps and dedicated to mastering Data Structures and Algorithms  for efficient problem-solving and system optimization.
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
 </p>
