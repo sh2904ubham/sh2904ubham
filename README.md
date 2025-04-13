@@ -19,7 +19,7 @@ Welcome to my GitHub profile! Full-stack Computer Science student passionate abo
 ## 🚀  About Me
 
 - 🔭 I am honing my **Dev** and **DSA** skills.
-- 🌱 I am currently learning **MERN/DevOps**.
+- 🌱 I am currently learning **MERN**.
 - 👯 I’m looking to collaborate in **web dev projects**.
 - 💬 Ask me about Web Development and MERN Stack.
 - 📫 How to reach me: **[shubhamshibu42@gmail.com]**.
